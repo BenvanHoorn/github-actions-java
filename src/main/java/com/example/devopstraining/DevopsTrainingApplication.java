@@ -9,7 +9,8 @@ public final class DevopsTrainingApplication {
     public static void main(String[] args) {
         SpringApplication.run(DevopsTrainingApplication.class, args);
     }
-    private DevopsTrainingApplication(){
+
+    private DevopsTrainingApplication() {
 
     }
 
